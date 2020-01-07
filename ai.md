@@ -1,35 +1,36 @@
-## Lectures and HWs
+## L2L AI Track -- Spring 2020
 
-# [Link to Current Lecture Plan](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
+# [Link to Tech Lecture Plan](https://docs.google.com/spreadsheets/d/1Mf8c0Guyzmtj-YC6nZJ-7XrByDN1QcqSSRDQ9jnAP60/edit?usp=sharing)
 
-**Time (subject to change, see Lecture Plan above)**: Mondays 9.30-11:30
+**Time**: Jan 21 - Jan 31: 9AM-noon / 2-5PM
 
-**Location**: [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240) 
+**Locations**:
+* [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240)
+* [242 Sutardja Dai](https://www.berkeley.edu/map?sutardja)
+* [786 Davis](https://www.berkeley.edu/map?davis)
+* [217 McLaughlin](https://www.berkeley.edu/map?mclaughlin)
+* [290 Hearst Mining](https://www.berkeley.edu/map?hearstmining)
 
 
 ## Course description
-The Learn 2 Launch Blockchain class aims to equip all students with a deep insight into Blockchain technology, its capabilities, and  to seperate hype from reality. This is an applied course, where we will explain how Blockchain technology works and how to actually apply it to solve problems.
-
-Lectures will be split up in two parts, the first will be a lecture highlighting a topic related to blockchain technology and the second part will consist of student presentations, assignment check up, and project mentoring / feedback. 
-
-We'll have many guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
-
-
-## Course Github repo
-
-[https://github.com/afo/L2Lblockchain](https://github.com/afo/L2Lblockchain)
+The AI track will cover state-of-the art approaches for practical AI application development. We'll cover foundations, computer vision, natural language processing, deep reinforcement learning, generative adverserial networks, model deployment / maintenance, graph databases, and guest lectures will be given be AI entrepreneurs as well as researchers (at Uber and UC Berkeley).
 
 
 ## Readings
 
-To get a good, comprehensive understanding of Blockchain technology we recommend that you read (or skim the following books):
+To get a good, comprehensive understanding of the current state of AI we recommend that you read (or skim the following books):
 
-* [The Truth Machine](https://www.amazon.com/Truth-Machine-Blockchain-Future-Everything/dp/B07B4MLBW8/ref=sr_1_1?ie=UTF8&qid=1533811586&sr=8-1&keywords=truth+machine)
-* [The Basics of Bitcoins and Blockchains](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001)
-* [The Internet of Money](https://www.amazon.com/The-Internet-of-Money/dp/B071KX8WP8/ref=sr_1_5?ie=UTF8&qid=1533811605&sr=1-5&keywords=mastering+bitcoin)
-* [Mastering Ethereum (tehnical)](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
-* [Mastering Bitcoin (technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_4?s=books&ie=UTF8&qid=1533811605&sr=1-4&keywords=mastering+bitcoin)
-* [Bitcoin and Cryptocurrency Technologies (technical)](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
+* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) -- free PDF
+* [Hands on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) -- get 2nd edition
+* [Machine Learning, Coursera](https://www.coursera.org/learn/machine-learning)
+* [DataCamp](https://www.datacamp.com/) — Register a free account [Link will be provided]
+* [Deep Learning](http://www.deeplearningbook.org/) -- free PDF
+* [Dive into Deep Learning](https://d2l.ai/) -- excellent free, contemporary resource from UC Berkeley
+
+## Links to lecture slides
+
+1. [Lecture 1 TBA]
+2. [Lecture 2 TBA]
 
 ## Grading rubric
 
@@ -37,20 +38,17 @@ To get a good, comprehensive understanding of Blockchain technology we recommend
 - System architecture + UI / UX flow 10%
 - Technical whitepaper 15%
 - MVP / PoC (Demo or Die) 15%
-- Ethereum Final (test + implementation) 20%
+- Final AI Assignment (test + implementation) 20%
 - Homeworks / reports 20%
 - Participation / Attendance 5%
 
 
 ## Contact
 
-We'll have a bCourses group for the blockchain students. Feel free to ask questions and stay in contact with the teaching team there.
+We'll have a bCourses group for the AI students. Feel free to ask questions and stay in contact with the teaching team there.
 
 
 ## FAQ
-
-**Short URL?**
-Yes, you can use: [https://bit.ly/learn2launch-blockchain](https://bit.ly/learn2launch-blockchain)
 
 
 **Cloud Credits**
@@ -63,20 +61,20 @@ For students who need computing resources for the class project, it is recommend
   <thead>
     <tr>
       <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:300px"></th>
-            <th style="width: 10%;"><img src="assets/imgs/hamdi.jpeg" alt="hamdi" style="width:300px"></th>
-                        <th style="width: 10%;"><img src="assets/imgs/max.jpg" alt="hamdi" style="width:300px"></th>
+            <th style="width: 10%;"><img src="" alt="2" style="width:300px"></th>
+                        <th style="width: 10%;"><img src="" alt="3" style="width:300px"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Instructor)</td>
-          <td><a href="https://www.linkedin.com/in/hamdiallam/">Hamdi Allam</a> <br>(Instructor)</td>
-          <td><a href="http://maxfa.ng/">Max Fang</a> <br>(Instructor)</td>
+          <td><a href="https://www.linkedin.com/in/">X</a> <br>(Instructor)</td>
+          <td><a href="http://">X</a> <br>(Instructor)</td>
     </tr>
     <tr>
       <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
-      <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
-      <td><a href="https://blockchain.berkeley.edu">Blockchain at Berkeley</a></td>
+      <td><a href="">X</a></td>
+      <td><a href="">X</a></td>
     </tr>
   </tbody>
 </table>

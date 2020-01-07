@@ -1,23 +1,19 @@
-## Lectures and HWs
+## L2L Blockchain Track -- Spring 2020
 
-# [Link to Current Lecture Plan](https://docs.google.com/spreadsheets/d/1dBiaBcgKsEg2rGO6s1gqsghUsHP2iIN6OcQBse5Z3hU/edit?usp=sharing)
+# [Link to Tech Lecture Plan](https://docs.google.com/spreadsheets/d/1Mf8c0Guyzmtj-YC6nZJ-7XrByDN1QcqSSRDQ9jnAP60/edit?usp=sharing)
 
-**Time (subject to change, see Lecture Plan above)**: Mondays 9.30-11:30
+**Time**: Jan 21 - Jan 31: 9AM-noon / 2-5PM
 
-**Location**: [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240) 
+**Locations**:
+* [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240)
+* [242 Sutardja Dai](https://www.berkeley.edu/map?sutardja)
+* [786 Davis](https://www.berkeley.edu/map?davis)
+* [217 McLaughlin](https://www.berkeley.edu/map?mclaughlin)
+* [290 Hearst Mining](https://www.berkeley.edu/map?hearstmining)
 
 
 ## Course description
-The Learn 2 Launch Blockchain class aims to equip all students with a deep insight into Blockchain technology, its capabilities, and  to seperate hype from reality. This is an applied course, where we will explain how Blockchain technology works and how to actually apply it to solve problems.
-
-Lectures will be split up in two parts, the first will be a lecture highlighting a topic related to blockchain technology and the second part will consist of student presentations, assignment check up, and project mentoring / feedback. 
-
-We'll have many guest lectures from industry and academia, as well as hands-on group exercises and presentation of use cases will help along the way.
-
-
-## Course Github repo
-
-[https://github.com/afo/L2Lblockchain](https://github.com/afo/L2Lblockchain)
+The blockchain track will cover state-of-the art approaches for practical blockchain understanding and application development. We'll cover foundations, deep dives into Bitcoin / Ethereum / Lightning / Plasma, blockchain applications, smart contract and dApp development, legal aspects, interoperability solutions, architectures, and guest lectures will be given be blockchain entrepreneurs as well as industry fellows (from Coinbase etc).
 
 
 ## Readings
@@ -30,6 +26,12 @@ To get a good, comprehensive understanding of Blockchain technology we recommend
 * [Mastering Ethereum (tehnical)](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940)
 * [Mastering Bitcoin (technical)](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388/ref=sr_1_4?s=books&ie=UTF8&qid=1533811605&sr=1-4&keywords=mastering+bitcoin)
 * [Bitcoin and Cryptocurrency Technologies (technical)](http://bitcoinbook.cs.princeton.edu/) - Free introductory book available on website
+
+## Links to lecture slides
+
+1. [Lecture 1 TBA]
+2. [Lecture 2 TBA]
+
 
 ## Grading rubric
 
@@ -49,9 +51,6 @@ We'll have a bCourses group for the blockchain students. Feel free to ask questi
 
 ## FAQ
 
-**Short URL?**
-Yes, you can use: [https://bit.ly/learn2launch-blockchain](https://bit.ly/learn2launch-blockchain)
-
 
 **Cloud Credits**
 For students who need computing resources for the class project, it is recommended that you to look into AWS educate program for students or sign up for a Google Cloud account. You’ll get a couple of hundreds of dollar’s worth of sign up credit. Here are the links: [AWS](https://aws.amazon.com/education/awseducate/apply/) and [Google Cloud Platform](https://cloud.google.com/free/).
@@ -62,21 +61,24 @@ For students who need computing resources for the class project, it is recommend
 <table style="table-layout: fixed; font-size: 88%; width:600px;">
   <thead>
     <tr>
+      <th style="width: 10%;"><img src="assets/imgs/max.jpg" alt="hamdi" style="width:300px"></th>
+      <th style="width: 10%;"><img src="assets/imgs/hamdi.jpeg" alt="hamdi" style="width:300px"></th>
+      <th style="width: 10%;"><img src="assets/imgs/wesley.jpg" alt="hamdi" style="width:300px"></th>
       <th style="width: 10%;"><img src="assets/imgs/alex.jpg" alt="Alexander Fred-Ojala" style="width:300px"></th>
-            <th style="width: 10%;"><img src="assets/imgs/hamdi.jpeg" alt="hamdi" style="width:300px"></th>
-                        <th style="width: 10%;"><img src="assets/imgs/max.jpg" alt="hamdi" style="width:300px"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Instructor)</td>
-          <td><a href="https://www.linkedin.com/in/hamdiallam/">Hamdi Allam</a> <br>(Instructor)</td>
           <td><a href="http://maxfa.ng/">Max Fang</a> <br>(Instructor)</td>
+          <td><a href="https://www.linkedin.com/in/hamdiallam/">Hamdi Allam</a> <br>(Instructor)</td>
+          <td><a href="https://www.linkedin.com/in/wesleygraham">Wesley Graham</a> <br>(Instructor)</td>
+          <td><a href="https://alex.fo/">Alexander Fred-Ojala</a> <br>(Instructor)</td>
     </tr>
     <tr>
-      <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
-      <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
       <td><a href="https://blockchain.berkeley.edu">Blockchain at Berkeley</a></td>
+      <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
+      <td><a href="https://github.com/fourthstate">FourState Labs</a></td>
+      <td><a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
     </tr>
   </tbody>
 </table>
