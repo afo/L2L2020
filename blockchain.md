@@ -1,4 +1,4 @@
-## L2L Blockchain Track -- Spring 2020
+## Blockchain Track
 
 # [Link to Tech Lecture Plan](https://docs.google.com/spreadsheets/d/1Mf8c0Guyzmtj-YC6nZJ-7XrByDN1QcqSSRDQ9jnAP60/edit?usp=sharing)
 
