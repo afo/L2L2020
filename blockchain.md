@@ -10,7 +10,7 @@
 * [786 Davis](https://www.berkeley.edu/map?davis)
 * [217 McLaughlin](https://www.berkeley.edu/map?mclaughlin)
 * [290 Hearst Mining](https://www.berkeley.edu/map?hearstmining)
-
+* [Chou Hall](https://www.berkeley.edu/map?chou)
 
 ## Course description
 The blockchain track will cover state-of-the art approaches for practical blockchain understanding and application development. We'll cover foundations, deep dives into Bitcoin / Ethereum / Lightning / Plasma, blockchain applications, smart contract and dApp development, legal aspects, interoperability solutions, architectures, and guest lectures will be given be blockchain entrepreneurs as well as industry fellows (from Coinbase etc).
