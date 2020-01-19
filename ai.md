@@ -2,7 +2,7 @@
 
 # [Link to Tech Lecture Plan](https://docs.google.com/spreadsheets/d/1Mf8c0Guyzmtj-YC6nZJ-7XrByDN1QcqSSRDQ9jnAP60/edit?usp=sharing)
 
-**Time**: Jan 21 - Jan 31: 9AM-noon / 2-5PM
+**Time**: Jan 21 - Jan 31: 9AM-noon or 2-5PM
 
 **Locations**:
 * [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240)
@@ -20,12 +20,16 @@ The AI track will cover state-of-the art approaches for practical AI application
 
 To get a good, comprehensive understanding of the current state of AI we recommend that you read (or skim the following books):
 
-* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) -- free PDF
 * [Hands on Machine Learning with Scikit-Learn and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) -- get 2nd edition
+* [Deep Reinforcement Learning Hands-On - Second Edition](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-optimisation/dp/1838826998/) -- 2nd edition out Feb 11 2020
+* [Dive into Deep Learning](https://d2l.ai/) -- excellent free, contemporary resource from UC Berkeley (note usage of MXNet)
+
+## Other great learning sources
+
+* [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) -- free PDF
 * [Machine Learning, Coursera](https://www.coursera.org/learn/machine-learning)
 * [DataCamp](https://www.datacamp.com/) — Register a free account [Link will be provided]
 * [Deep Learning](http://www.deeplearningbook.org/) -- free PDF
-* [Dive into Deep Learning](https://d2l.ai/) -- excellent free, contemporary resource from UC Berkeley
 
 ## Links to lecture slides
 
