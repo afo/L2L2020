@@ -6,11 +6,12 @@
 
 **Locations**:
 * [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240)
-* [242 Sutardja Dai](https://www.berkeley.edu/map?sutardja)
+* [242 Sutardja Dai Hall](https://www.berkeley.edu/map?sutardja)
 * [786 Davis](https://www.berkeley.edu/map?davis)
 * [217 McLaughlin](https://www.berkeley.edu/map?mclaughlin)
 * [290 Hearst Mining](https://www.berkeley.edu/map?hearstmining)
 * [Chou Hall](https://www.berkeley.edu/map?chou)
+* [Sutardja Center for Entrepreneurship and Technology](https://www.google.com/maps/place/Sutardja+Center+for+Entrepreneurship+and+Technology/@37.871124,-122.2518838,15z/data=!4m2!3m1!1s0x0:0xdafcf8acc9048bcb?sa=X&ved=2ahUKEwjC3__nh5jnAhV5GDQIHeXtCTQQ_BIwCnoECA0QCA)
 
 ## Course description
 The blockchain track will cover state-of-the art approaches for practical blockchain understanding and application development. We'll cover foundations, deep dives into Bitcoin / Ethereum / Lightning / Plasma, blockchain applications, smart contract and dApp development, legal aspects, interoperability solutions, architectures, and guest lectures will be given be blockchain entrepreneurs as well as industry fellows (from Coinbase etc).

@@ -6,7 +6,7 @@
 
 **Locations**:
 * [240 Bechtel](https://wheelerrenewal.berkeley.edu/surge-spaces/bechtel-hall-room-240)
-* [242 Sutardja Dai](https://www.berkeley.edu/map?sutardja)
+* [242 Sutardja Dai Hall](https://www.berkeley.edu/map?sutardja)
 * [786 Davis](https://www.berkeley.edu/map?davis)
 * [217 McLaughlin](https://www.berkeley.edu/map?mclaughlin)
 * [290 Hearst Mining](https://www.berkeley.edu/map?hearstmining)
@@ -33,8 +33,13 @@ To get a good, comprehensive understanding of the current state of AI we recomme
 
 ## Links to lecture slides
 
-1. [Lecture 1 TBA]
+1. [Lecture 1](https://docs.google.com/presentation/d/11MFkcKRECA4D2N8hmrcIoUuPoe_AMy5tNngCfdOznpY/edit?usp=sharing)
 2. [Lecture 2 TBA]
+
+## Github repo
+
+#### [github.com/afo/L2L2020-src](https://github.com/afo/L2L2020-src)
+
 
 ## Grading rubric
 
