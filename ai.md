@@ -31,7 +31,9 @@ Complete Andrew Ng's great Machine Learning course on Coursera (skip the Matlab 
 
 If you've never used Jupyter notebooks before I recommend that you either run code and course material in [Google Colab](https://colab.research.google.com/), Google's shared notebook interface in Drive.
 
-If you want to run notebooks locally (recommended for simple experimentation) and you haven't used virtual environments or pyenv or similar before, then follow the install instructions here: [Link to Anaconda install instructions](https://bit.ly/L2L-install)
+If you want to run notebooks locally (recommended for simple experimentation) and you haven't used virtual environments or pyenv or similar before, then follow the install instructions here:
+
+**[Link to Anaconda install instructions](https://bit.ly/L2L-install)**
 
 
 
