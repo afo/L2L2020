@@ -19,12 +19,12 @@ The AI track will cover state-of-the art approaches for practical AI application
 
 #### Python training
 
-Go through the training videos offered by Berkeley Institute for Data Science (BIDS): (Link)[https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online]
+Go through the training videos offered by Berkeley Institute for Data Science (BIDS): [https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online](Link)
 
 
 #### Machine Learning Theory
 
-Complete Andrew Ng's great Machine Learning course on Coursera (skip the Matlab / Octave based tutorials, complete them in Python if you want): (Link)[https://www.coursera.org/learn/machine-learning]
+Complete Andrew Ng's great Machine Learning course on Coursera (skip the Matlab / Octave based tutorials, complete them in Python if you want): [https://www.coursera.org/learn/machine-learning](Link)
 
 
 #### Install Instructions (Anaconda)
