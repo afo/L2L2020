@@ -27,6 +27,13 @@ Go through the training videos offered by Berkeley Institute for Data Science (B
 Complete Andrew Ng's great Machine Learning course on Coursera (skip the Matlab / Octave based tutorials, complete them in Python if you want): (Link)[https://www.coursera.org/learn/machine-learning]
 
 
+#### Install Instructions (Anaconda)
+
+If you've never used Jupyter notebooks before I recommend that you either run code and course material in [Google Colab](https://colab.research.google.com/), Google's shared notebook interface in Drive.
+
+If you want to run notebooks locally (recommended for simple experimentation) and you haven't used virtual environments or pyenv or similar before, then follow the install instructions here: [Link to Anaconda install instructions](https://bit.ly/L2L-install)
+
+
 
 ## Readings
 
