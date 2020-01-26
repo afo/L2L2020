@@ -55,7 +55,7 @@ To get a good, comprehensive understanding of the current state of AI we recomme
 ## Links to lecture slides
 
 1. [Lecture 1](https://docs.google.com/presentation/d/11MFkcKRECA4D2N8hmrcIoUuPoe_AMy5tNngCfdOznpY/edit?usp=sharing)
-2. [Lecture 2 TBA]
+2. [Lecture 2](https://docs.google.com/presentation/d/1e6pcxgDwUvgDlbUcnPe_PQjHYICJY7Db3t5xqiaKpJo/edit?usp=sharing)
 
 ## Github repo
 
