@@ -54,8 +54,10 @@ To get a good, comprehensive understanding of the current state of AI we recomme
 
 ## Links to lecture slides
 
-1. [Lecture 1](https://docs.google.com/presentation/d/11MFkcKRECA4D2N8hmrcIoUuPoe_AMy5tNngCfdOznpY/edit?usp=sharing)
-2. [Lecture 2](https://docs.google.com/presentation/d/1e6pcxgDwUvgDlbUcnPe_PQjHYICJY7Db3t5xqiaKpJo/edit?usp=sharing)
+1. [Lec 0: AI + Blockchain intro](https://docs.google.com/presentation/d/11MFkcKRECA4D2N8hmrcIoUuPoe_AMy5tNngCfdOznpY/edit?usp=sharing)
+2. [Lec 1: Terminology, Amazoogle, Run an AI project](https://docs.google.com/presentation/d/1e6pcxgDwUvgDlbUcnPe_PQjHYICJY7Db3t5xqiaKpJo/edit?usp=sharing)
+3. [Lec 2 Prolego: AI Service opportunities + NLP](https://docs.google.com/presentation/d/1aOkrV_0iVb94doAZtmAQRdSTBVLRmt-s_JvOCFg6sCo/edit?usp=sharing)
+4. [Lec 3 Intro slides](https://docs.google.com/presentation/d/15udwOS86TsHJzS7z32mpXpUc7tBEdQ4Gpzg9LcfQtxU/edit?usp=sharing)
 
 ## Github repo
 
