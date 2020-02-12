@@ -49,7 +49,7 @@ To get a good, comprehensive understanding of the current state of AI we recomme
 
 * [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) -- free PDF
 * [Machine Learning, Coursera](https://www.coursera.org/learn/machine-learning)
-* [DataCamp](https://www.datacamp.com/) — Register a free account [Link will be provided]
+* [DataCamp](https://www.datacamp.com/) — Register a free account with your Berkeley email on this [Link](https://www.datacamp.com/groups/shared_links/583d47889925a1c2b922c7889d306384027d5561)
 * [Deep Learning](http://www.deeplearningbook.org/) -- free PDF
 
 ## Links to lecture slides
