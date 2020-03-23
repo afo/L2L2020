@@ -59,8 +59,11 @@ To get a good, comprehensive understanding of the current state of AI we recomme
 3. [Lec 3 Prolego: AI Service opportunities + NLP](https://docs.google.com/presentation/d/1aOkrV_0iVb94doAZtmAQRdSTBVLRmt-s_JvOCFg6sCo/edit?usp=sharing)
 4. [Lec 4-5: Intro slides](https://docs.google.com/presentation/d/15udwOS86TsHJzS7z32mpXpUc7tBEdQ4Gpzg9LcfQtxU/edit?usp=sharing)
 5. [Lec 6: Lowtech demo expectations](https://docs.google.com/presentation/d/1I5zmrFhGjPsWl-gxk8casmTFuSW-MkLqfSATd95hBi8/edit?usp=sharing)
-6. Lec 7: Kevin's slides to be posted (only first part)
+6. Lec 7: Kevin Li, Data Science Lead, Uber Eats Kevin's slides to be posted (only first part)
 7. [Lec 8: Course overview](https://docs.google.com/presentation/d/1e2rXQaJR5IevTGPwe3EnP5uK2NwkFkO9jqEqDzDGWGo/edit?usp=sharing)
+8. Piero Molino, Senior AI Researcher and NLP Expert, Uber
+9. Data Visualization and Dashboarding, Elias Castro Hernandez, Researcher at UC Berkeley
+10. Deploying a scalable machine learning application, Eldon Schoop, PhD EECS UC Berkeley
 
 ## Github repo
 
